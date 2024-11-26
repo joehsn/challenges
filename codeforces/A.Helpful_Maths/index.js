@@ -1,6 +1,9 @@
 const process = require("process");
 const readline = require("readline")
 
+/**
+  * A program that sorts the summands in non-decreasing order.
+  */
 function main() {
   let res = "";
   const rl = readline.createInterface({
