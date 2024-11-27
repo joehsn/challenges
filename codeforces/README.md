@@ -11,7 +11,7 @@ solution.
 Always compile program using:
 
 ```bash
-gcc -Wall -Werror -Wextra -pedantic -std=c11 *.c -o program
+gcc -Wall -Werror -Wextra -pedantic -std=c11 main.c -o a
 ```
 
 "Maybe you write a python script, so that it run _almost_ anywhere, that compile C programs into executable format."
