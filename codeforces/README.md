@@ -11,7 +11,7 @@ solution.
 Always compile program using:
 
 ```bash
-gcc -Wall -Werror -Wextra -pedantic -std=c11 main.c -o a
+gcc -Wall -Werror -Wextra -pedantic -std=c11 main.c -o a.out
 ```
 
 - Memory Management
